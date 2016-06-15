@@ -4,7 +4,9 @@ WebMapProject
 Web-based GIS Application for LA Historical Crime Data Queries
 
 In this project, I developed the application by JSP, JavaScript framework (Dojo), T-SQL in Microsoft SQL Server 
-and ArcGIS products .The functions involve:
+and ArcGIS products.
+
+The functions involve:
 1. Louisiana historical parish crime data attribute queries by dynamically render map of color ramp; 
 2. Text-input buffer query ;
 3. Map eagle view window, measure any geographic object’s length and area ;
